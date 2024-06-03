@@ -13,7 +13,7 @@ https://github.com/lionmartius/as.mushroom.as.possible/assets/146541125/3dff7a2c
 ## Overview
 The following repository contains data and scripts for the paper entitled: 
 
-_**Dual mycorrhizal nurse plants act as natural nucleation foci during woodland expansion by facilitating ectomycorrhizal tree establishment.**_ from fieldwork on Gleann Shìldeag estate in the Scottish Highlands.
+**Dual mycorrhizal nurse plants act as natural nucleation foci during woodland expansion by facilitating ectomycorrhizal tree establishment.** from fieldwork on Gleann Shìldeag estate in the Scottish Highlands.
 
 - **Introduction**: 
   Woodland improvement and expansion are crucial for mitigating climate change and biodiversity loss. Natural regeneration of woodlands is slow and often hindered by the loss of microbial woodland-soil properties, necessitating active reforestation approaches.
